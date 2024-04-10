@@ -45,5 +45,5 @@ family = "LiterationMono Nerd Font Mono"
 hide_when_typing = true
 
 [window]
-decorations = "none"
+# decorations = "none"
 option_as_alt = "Both"
